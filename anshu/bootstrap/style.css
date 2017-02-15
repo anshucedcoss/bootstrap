@@ -1,0 +1,95 @@
+ @media all and (max-width:700px) {
+
+   #footer{display:none;}
+
+
+}
+
+ .button{
+	   -moz-appearance: none;
+    background-color: transparent;
+    border: 3px solid #efefef;
+    border-radius: 0.35em;
+    color: #787878;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 400;
+    height: calc(2.75em + 6px);
+    line-height: 2.75em;
+    min-width: 10em;
+    padding: 0 1.5em;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.image{
+
+	border-radius: 0.35em;
+    display: block;
+    
+}
+#header{
+	background-image: url("images/bg.jpg");
+    background-color: #cccccc;
+    padding-left: -15px;
+    
+    padding-right: 2%;
+    background-attachment: scroll, fixed;
+
+   /* background-position: left 0px;*/
+}
+.avtar{
+	border-radius: 100%;
+}
+#two .row div img{
+    border-radius: 5px;
+    width:90%;
+
+}
+#inner{
+
+	padding-top: 20%;
+	padding-right: 10%;
+	
+
+}
+#inner h1{
+	text-align: right;
+	font-size: 20px;
+
+}
+.inner{
+
+	padding-top: 10%;
+	margin-top: 10%;
+}
+#footer ul li{
+	display: inline;
+	padding-right: 5%;
+	color: white;
+}
+#footer{
+	margin-top: 50%;
+	padding-right: 5%;
+	padding-bottom: 20%;
+}
+#one{
+	border-bottom:1px solid grey; 
+}
+#two{
+	border-bottom: 1px solid grey;
+	margin-top: 5%;
+}
+#three{
+	margin-top: 5%;
+}
+#message{
+	margin-top: 5%;
+}
+
+#three ul li{
+	text-decoration: none;
+	list-style: none;
+	padding-top: 10%;
+}
